@@ -1,14 +1,12 @@
 # React Profile
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/15f7e6ff-c1e1-45fa-a9bb-15e549e936bf/deploy-status)](https://app.netlify.com/sites/vipat-profile/deploys)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-
-</div>
+<p align="center">
+  <a href="https://app.netlify.com/sites/vipat-profile/deploys">
+    <img src="https://api.netlify.com/api/v1/badges/15f7e6ff-c1e1-45fa-a9bb-15e549e936bf/deploy-status" alt="Netlify Status" style="margin: 0 10px;">
+  </a>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" style="margin: 0 10px;">
+</p>
 
 โปรเจคนี้สร้างขึ้นเพื่อการศึกษา React และ DaisyUI และ เป็นโปรเจค React ที่ใช้ Vite และ ถูกตั้งค่าให้ทำงานร่วมกับ Tailwind CSS, DaisyUI และ React Router โดยโปรเจคนี้ถูกคอนเทนเนอร์ไว้ด้วย Docker เพื่อการใช้งานและการปรับใช้ที่ง่ายดาย
 
