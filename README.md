@@ -25,8 +25,8 @@ https://vipat-profile.netlify.app/
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/my-vite-app.git
-    cd my-vite-app
+    git clone https://github.com/Earth123456789/profile.git
+    cd profile
     ```
 2. **Install dependencies:**
 
