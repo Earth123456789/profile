@@ -44,11 +44,11 @@ npm run dev
 **หรือสร้างด้วย Docker**
 
 ```bash
-docker build -t my-vite-app .
+docker build -t profile .
 ```
 
 ```bash
-docker run -p 3000:80 my-vite-app
+docker run -p 3000:80 profile
 ```
 
 # Credits
